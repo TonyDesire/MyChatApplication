@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/not_photo_image_background" />
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/ic_photo_camera_black_48dp"/>
+    </item>
+</layer-list>

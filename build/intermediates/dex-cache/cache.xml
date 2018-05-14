@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tonye/Desktop/MyChatApplication3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/tonye/Desktop/MyChatApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c6980f6db2cb535aa4311df919d4ec9f075886b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tonye/Desktop/MyChatApplication3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ad9ea9532285086cc35fe6df8f4ab4f4d723b86">
+        <dex dex="/Users/tonye/Desktop/MyChatApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_74e2baa4023ced507f7089f2416feede22170e61/classes.dex" />
+    </item>
+
+</items>
